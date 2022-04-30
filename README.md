@@ -92,7 +92,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@elihampton_](https://twitter.com/eli_hampton) - hamptonelijahj@gmail.com
+Elijah Hampton - [@elihampton_](https://twitter.com/eli_hampton) - hamptonelijahj@gmail.com
 
 Project Link: [https://github.com/elijahhampton/solidity-data-structures](https://github.com/elijahhampton/solidity-data-structures)
 
