@@ -68,7 +68,7 @@ See the [open issues](https://github.com/elijahhampton/Solidity-Data-Structures/
 
 **Queue** <br />
 Solidity Queue by Erick Dagenais (https://github.com/edag94) <a href="https://github.com/edag94/solidity-queue">solidity-queue</a> <br />
-SummingPriorityQueue Mihanix by <a href="https://github.com/MihanixA/SummingPriorityQueue">SummingPriorityQueue</a> <br />
+SummingPriorityQueue by Mihanix (https://github.com/mihanix) <a href="https://github.com/MihanixA/SummingPriorityQueue">SummingPriorityQueue</a> <br />
 
 <!-- CONTRIBUTING -->
 ## Contributing
