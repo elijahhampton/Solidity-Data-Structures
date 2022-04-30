@@ -1,10 +1,6 @@
 # Solidity-Data-Structures
 A compilation of solidity data structure implementations.  See the README for more implementation
 
-<div id="top"></div>
-
-[![MIT License][license-shield]][license-url]
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -66,6 +62,13 @@ Change these implementations to fit your use case.
 - [ ] BinaryTree
 
 See the [open issues](https://github.com/elijahhampton/Solidity-Data-Structures/issues) for a full list of proposed implementations.
+
+<!-- LICENSE -->
+## Implementations
+
+**Queue** <br />
+Solidity Queue by Erick Dagenais (https://github.com/edag94) <a href="https://github.com/edag94/solidity-queue">solidity-queue</a> <br />
+SummingPriorityQueue Mihanix by <a href="https://github.com/MihanixA/SummingPriorityQueue">SummingPriorityQueue</a> <br />
 
 <!-- CONTRIBUTING -->
 ## Contributing
