@@ -61,6 +61,8 @@ Change these implementations to fit your use case.
 - [ ] Queue
 - [ ] Stack
 - [ ] LinkedList
+- [ ] DoublyLinkedList
+- [ ] CircularLinkedList
 - [ ] BinaryTree
 
 See the [open issues](https://github.com/elijahhampton/Solidity-Data-Structures/issues) for a full list of proposed implementations.
